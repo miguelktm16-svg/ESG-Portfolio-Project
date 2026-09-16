@@ -42,4 +42,4 @@ that went beyond my Python coursework.
 
 ## How to run
 
-Open `Miguel Project.ipynb` in Google Colab and click run all.
+Open `ESG Portolio Optimiser` in Google Colab and click run all.
